@@ -15,6 +15,7 @@ Tutaj znajduje się kompletna lista moich certyfikatów i ukończonych kursów, 
 | 2026-02-25 | Power BI - Wizualizacja i Analiza danych (poziom zaawansowany) | CyberSkiller | [Zobacz PDF](power-bi-zaawansowany.pdf) |
 | 2026-01-10 | Power BI - Wizualizacja i Analiza Danych (poziom podstawowy) | CyberSkiller | [Zobacz PDF](power-bi-podstawowy.pdf) |
 | 2025-12-01 | Zaawansowany język zapytań SQL oraz schematy w bazie danych | CyberSkiller | [Zobacz PDF](zaawansowany-sql.pdf) |
+| 2025-10-31 | Podstawy budowy baz danych oraz języka zapytań SQL | CyberSkiller | [Zobacz PDF](podstawy-sql.pdf) |
 
 ---
 *Wszystkie certyfikaty ze szkoleń stacjonarnych oraz platform e-learningowych posiadają oficjalne numery rejestracyjne i kody weryfikacyjne.*
